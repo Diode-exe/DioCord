@@ -11,7 +11,11 @@
 }
 
 .cf48127484dbde85-text-md\/medium,
-.caf372efc4d47562-itemContent {
+.caf372efc4d47562-itemContent,
+.cf48127484dbde85-text-sm\/normal, 
+._5a8382cf5c9d77df-description,
+.cf48127484dbde85-text-xs\/normal, 
+.c7f964e7e0fc8b47-connectionAccountLabel {
     color: #20C20E !important;
     font-family: Consolas, "Courier New", monospace !important;
 }
