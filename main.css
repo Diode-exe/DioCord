@@ -1,0 +1,17 @@
+/**
+ * @name DioCord
+ * @author Diode-exe
+ * @description Custom theme for Discord
+ * @version 1.0
+*/
+
+* {
+    color: #20C20E !important;
+    font-family: Consolas, "Courier New", monospace;
+}
+
+.cf48127484dbde85-text-md\/medium,
+.caf372efc4d47562-itemContent {
+    color: #20C20E !important;
+    font-family: Consolas, "Courier New", monospace !important;
+}
